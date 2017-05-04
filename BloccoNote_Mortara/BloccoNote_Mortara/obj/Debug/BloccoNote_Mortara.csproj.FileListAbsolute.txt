@@ -1,0 +1,16 @@
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\bin\Debug\BloccoNote_Mortara.exe.config
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\bin\Debug\BloccoNote_Mortara.exe
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\bin\Debug\BloccoNote_Mortara.pdb
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.csprojResolveAssemblyReference.cache
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.Form1.resources
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.Properties.Resources.resources
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.csproj.GenerateResource.Cache
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.exe
+C:\Users\tommaso\Desktop\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.pdb
+C:\Users\tommaso\Desktop\Tommy\C#\C#_2016-2017\BloccoNote\BloccoNote_Mortara\BloccoNote_Mortara\bin\Debug\BloccoNote_Mortara.exe.config
+C:\Users\tommaso\Desktop\Tommy\C#\C#_2016-2017\BloccoNote\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.exe
+C:\Users\tommaso\Desktop\Tommy\C#\C#_2016-2017\BloccoNote\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.pdb
+C:\Users\tommaso\Desktop\Tommy\C#\C#_2016-2017\BloccoNote\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.csprojResolveAssemblyReference.cache
+C:\Users\tommaso\Desktop\Tommy\C#\C#_2016-2017\BloccoNote\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.Form1.resources
+C:\Users\tommaso\Desktop\Tommy\C#\C#_2016-2017\BloccoNote\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.Properties.Resources.resources
+C:\Users\tommaso\Desktop\Tommy\C#\C#_2016-2017\BloccoNote\BloccoNote_Mortara\BloccoNote_Mortara\obj\Debug\BloccoNote_Mortara.csproj.GenerateResource.Cache
